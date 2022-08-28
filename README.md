@@ -1,5 +1,5 @@
 # Binary-Search-Tree-Projesi
-# https://app.patika.dev/cucurcun [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları;
+# https://app.patika.dev/emretepetam [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları;
 # 
 #                               [7]->> root
 #                              /   \
